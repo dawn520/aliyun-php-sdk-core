@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dawn520\\Aliyun\\Core\\": "aliyun-php-sdk-core/"
+            "Dawn520\\Aliyun\\Core\\": "src"
         }
     }
 }
